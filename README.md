@@ -45,7 +45,8 @@ smart4412 타겟시스템을 활용한 사운드 기반 게임 만들기 프로�
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/9d4e9c91-372f-4874-b77b-e2c2df891ca0)
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/66b78960-c4be-495b-a4b6-31e31f2377aa)
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/c0a18cb1-a5da-43a7-92d5-c9aa991d670b)
-![image](https://github.com/zeromin41/IOT_Project/assets/130297212/71f35a47-392f-4e0c-91e0-cda70fa5b604)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/ca3f9bd9-add6-459f-8771-3bedb7af0bfa)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/36c4bbbd-3235-443a-b73b-cb288f8b48c4)
 
 
 </details>
