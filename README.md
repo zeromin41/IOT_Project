@@ -30,10 +30,23 @@ smart4412 타겟시스템을 활용한 사운드 기반 게임 만들기 프로�
   3주차 프로젝트 계획
 </h2></summary>
 
-![image](https://github.com/zeromin41/IOT_Project/assets/130297212/2ac7c5b2-ecb7-4516-a9ac-65d4ef013796)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/f1ed6a54-0056-4afb-8657-f2c11ed8dee7)
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/bffcb6da-af90-4841-ba7e-418dff1de73e)
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/6b53b3e3-1f11-43d3-abbd-bdcb7de948f6)
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/9f310d85-4d44-40ca-99e9-34ce0b43f0fd)
+
+</details>
+
+<details>
+<summary><h2>
+  4주차 프로젝트 계획
+</h2></summary>
+
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/9d4e9c91-372f-4874-b77b-e2c2df891ca0)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/66b78960-c4be-495b-a4b6-31e31f2377aa)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/c0a18cb1-a5da-43a7-92d5-c9aa991d670b)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/71f35a47-392f-4e0c-91e0-cda70fa5b604)
+
 
 </details>
 
