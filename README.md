@@ -1,5 +1,5 @@
-# IOT_Project
-smart4412 타겟시스템을 활용한 사운드 기반 게임 만들기 프로젝트
+# IoT_Project
+H-Smart4412 타겟시스템을 활용한 사운드 기반 게임 만들기 프로젝트
 
 # 프로젝트 계획
 <details>
