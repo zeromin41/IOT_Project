@@ -51,5 +51,24 @@ H-Smart4412 타겟시스템을 활용한 사운드 기반 게임 만들기 프�
 
 </details>
 
+<details>
+<summary><h2>
+  5주차 프로젝트 최종 발표
+</h2></summary>
+
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/fdf6035e-7012-4b65-b643-3035136bc8d7)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/e65806a0-053e-4456-8f9a-0925cebc7b1b)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/f02e5b9b-793a-498e-bd36-a50e98be7cdd)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/9b63ad2a-ef2e-4db2-b0cf-d03ac74433cc)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/3a7e72c6-3ccf-40f7-964a-4b0d5298fe45)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/dda000c7-f09e-4bd5-82ad-27d96d1e0c78)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/45c049b0-0a95-403f-a3d1-5fe76033a07c)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/37fd73c2-c395-4ca1-bebc-c103fbcc56b3)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/813f7759-a4d6-405e-8356-02fdc954f273)
+
+
+
+</details>
+
 # 플로우차트
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/a5dcf83d-18d2-414d-be2d-238c010b06b9)
