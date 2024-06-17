@@ -5,6 +5,9 @@
 플레이어는 Tact Switch를 사용하여 캐릭터를 점프시켜 장애물을 피할 수 있습니다. <br>
 게임 속도는 Dip Switch를 통해 조절할 수 있으며, 게임 종료 시 FND에 플레이 시간이 표시됩니다.
 
+## 개발 기간
+> 2024.05 ~ 2024.06
+
 ## 팀원 소개
 [김혜민](https://github.com/minixzip)
 [심영민](https://github.com/zeromin41)
