@@ -1,9 +1,49 @@
 # 프로젝트 개요
-본 프로젝트는 임베디드 시스템을 활용하여 점프 게임을 개발하는 것을 목표로 합니다. <br>
+본 IOT 프로젝트는 임베디드 시스템을 활용하여 점프 게임을 개발하는 것을 목표로 합니다. <br>
 이 게임은 플레이어가 캐릭터를 조작하여 다가오는 장애물을 피하고 최대한 오래 살아남는 것이 목표입니다. <br>
 게임은 Dot Matrix에 캐릭터와 장애물이 표시되며, CLCD에는 게임 상태와 게임 오버 메시지가 출력됩니다. <br>
 플레이어는 Tact Switch를 사용하여 캐릭터를 점프시켜 장애물을 피할 수 있습니다. <br>
 게임 속도는 Dip Switch를 통해 조절할 수 있으며, 게임 종료 시 FND에 플레이 시간이 표시됩니다.
+
+## 팀원 소개
+[김혜민](https://github.com/minixzip)
+[심영민](https://github.com/zeromin41)
+[정재형](https://github.com/jaehyeongjung)
+[전하라](https://github.com/rarabong)
+
+## 사용 개발 환경
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" width="52" alt="linux logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" height="40" width="52" alt="ubuntu logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="52" alt="github logo"  />
+</div>
+
+# 플로우차트
+```mermaid
+flowchart TD
+    A[시작] --> B[하드웨어장치초기화]
+    B --> C[게임변수설정]
+    C --> D[CLCD에 '시작하려면스위치를누르세요' 출력]
+    D --> E{game_state == 0?}
+    E -->|예| F[택트스위치입력확인]
+    F -->|택트스위치눌림| G[게임시작]
+    G --> H[game_state를 1로설정]
+    H --> I[WHILE game_state == 1]
+    I --> J[도트매트릭스업데이트]
+    J --> K[장애물이동]
+    K --> L[캐릭터점프확인]
+    L --> M{충돌감지?}
+    M -->|예| N[게임종료]
+    N --> O[CLCD에 '게임오버' 출력]
+    O --> P[FND에플레이시간출력]
+    P --> Q[game_state를 2로설정]
+    M -->|아니오| R{game_state == 2?}
+    R -->|예| S[끝]
+    R -->|아니오| I
+    E -->|아니오| F
+```
 
 # 프로젝트 계획
 <details>
@@ -70,31 +110,7 @@
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/37fd73c2-c395-4ca1-bebc-c103fbcc56b3)
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/813f7759-a4d6-405e-8356-02fdc954f273)
 
-
-
 </details>
 
-# 플로우차트
-```mermaid
-flowchart TD
-    A[시작] --> B[하드웨어장치초기화]
-    B --> C[게임변수설정]
-    C --> D[CLCD에 '시작하려면스위치를누르세요' 출력]
-    D --> E{game_state == 0?}
-    E -->|예| F[택트스위치입력확인]
-    F -->|택트스위치눌림| G[게임시작]
-    G --> H[game_state를 1로설정]
-    H --> I[WHILE game_state == 1]
-    I --> J[도트매트릭스업데이트]
-    J --> K[장애물이동]
-    K --> L[캐릭터점프확인]
-    L --> M{충돌감지?}
-    M -->|예| N[게임종료]
-    N --> O[CLCD에 '게임오버' 출력]
-    O --> P[FND에플레이시간출력]
-    P --> Q[game_state를 2로설정]
-    M -->|아니오| R{game_state == 2?}
-    R -->|예| S[끝]
-    R -->|아니오| I
-    E -->|아니오| F
-```
+# 프로젝트 시연 영상
+[시연 영상 유튜브 링크](https://www.youtube.com/watch?v=nFt3l6eh_fw)
