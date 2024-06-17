@@ -118,3 +118,10 @@ flowchart TD
 
 # 프로젝트 시연 영상
 [시연 영상 유튜브 링크](https://www.youtube.com/watch?v=nFt3l6eh_fw)
+## 프로젝트 주요 화면
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/d4e1edc4-2744-4b1b-8a3a-62a40d0da9a9)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/a85ccfaa-a7ca-447e-afb7-0b343c130a9f)
+![image](https://github.com/zeromin41/IOT_Project/assets/130297212/e60a7c94-e467-476d-aca3-728d1ec4e6b7)
+
+
+
