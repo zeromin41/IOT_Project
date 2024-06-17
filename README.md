@@ -117,7 +117,7 @@ flowchart TD
 </details>
 
 # 프로젝트 시현 영상
-[시현현 영상 유튜브 링크](https://www.youtube.com/watch?v=nFt3l6eh_fw)
+[시현 영상 유튜브 링크](https://www.youtube.com/watch?v=nFt3l6eh_fw)
 ## 프로젝트 주요 화면
 ![image](https://github.com/zeromin41/IOT_Project/assets/130297212/d4e1edc4-2744-4b1b-8a3a-62a40d0da9a9) <br>
 게임 대기 상태 <br><br>
